@@ -1,6 +1,6 @@
 # SunriseClock
 
-# Using teenseyduino
+Using teenseyduino
 
 The code asks the user to first set the time and date and then enter the alarm time,
 
